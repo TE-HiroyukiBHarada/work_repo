@@ -1,0 +1,578 @@
+me.txt(9): 12-23 12:04:48.873 E/kernel  ( 6459): [ 1897.173040][drm:mtk_tv_drm_ambient_light_set_frame_size [mediatek_drm_tv]] *ERROR* [mtk_tv_drm_ambient_light_set_frame_size][456] AMB not init
+me.txt(27): 12-23 12:04:48.889 E/kernel  ( 6459): [ 1897.189301][drm:mtk_tv_drm_backlight_set_panel_info [mediatek_drm_tv]] *ERROR* [_backlight_set_period_multi][486] Invalid period_multi[0] = 0
+me.txt(28): 12-23 12:04:48.889 E/kernel  ( 6459): [ 1897.189369][drm:mtk_tv_drm_backlight_set_panel_info [mediatek_drm_tv]] *ERROR* [mtk_tv_drm_backlight_set_panel_info][905] _backlight_set_period_multi fail, ret = -1
+me.txt(29): 12-23 12:04:48.889 E/kernel  ( 6459): [ 1897.189433][drm:mtk_tv_drm_ambient_light_set_frame_size [mediatek_drm_tv]] *ERROR* [mtk_tv_drm_ambient_light_set_frame_size][456] AMB not init
+me.txt(129): 12-23 12:04:48.978 E/kernel  ( 6663): [ 1897.277920]mtk-pqu 1d020200.memcu: pqu_elf_load_customize_tables: find coredump_table fail
+me.txt(220): 12-23 12:04:49.604 E/android.hardware.wifi-service(  593): Failed to get firmware debug dump: NOT_SUPPORTED
+me.txt(253): 12-23 12:04:49.605 E/WifiChipAidlImpl(  751): requestFirmwareDebugDump failed with service-specific exception: android.os.ServiceSpecificException:  (code 4)
+me.txt(440): 12-23 12:04:49.129 I/kernel  (  567): [ 1897.429239][wlan][567]p2pFuncSwitchSapChannel:(P2P WARN) SAP is not active
+me.txt(468): 12-23 12:04:49.257 E/kernel  (  572): [ 1897.556546]pqu_ambient_light_sensor_get_illuminance() Fail
+me.txt(469): 12-23 12:04:49.257 E/kernel  (  572): [ 1897.556557]pqu_ambient_light_sensor_get_error_information() Fail
+me.txt(472): 12-23 12:04:49.258 I/kernel  ( 1186): [ 1897.558412][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(474): 12-23 12:04:49.259 I/kernel  ( 1186): [ 1897.559308][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(518): 12-23 12:04:49.341 I/kernel  ( 1186): [ 1897.641483][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(563): 12-23 12:04:49.388 E/kernel  ( 6661): [ 1897.688160][ALSA MTK] mtk_src1_clk_set_enable set hdmi divisor fail
+me.txt(571): 12-23 12:04:49.394 E/kernel  ( 6661): [ 1897.694271][ALSA MTK] mtk_src3_clk_set_enable set source divisor fail
+me.txt(578): 12-23 12:04:49.420 I/kernel  (  611): [ 1897.719896][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(584): 12-23 12:04:49.421 I/kernel  (  751): [ 1897.720933][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 2
+me.txt(592): 12-23 12:04:49.421 I/kernel  (  751): [ 1897.721227][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 2
+me.txt(600): 12-23 12:04:49.421 I/kernel  (  751): [ 1897.721503][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 2
+me.txt(608): 12-23 12:04:49.422 I/kernel  (  751): [ 1897.721756][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 2
+me.txt(613): 12-23 12:04:49.425 I/kernel  (  611): [ 1897.724898][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(615): 12-23 12:04:49.427 I/kernel  (  611): [ 1897.726633][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(617): 12-23 12:04:49.429 I/kernel  (  611): [ 1897.729086][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(619): 12-23 12:04:49.430 I/kernel  (  611): [ 1897.730407][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(621): 12-23 12:04:49.433 I/kernel  (  611): [ 1897.732983][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(623): 12-23 12:04:49.435 I/kernel  (  611): [ 1897.735137][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(625): 12-23 12:04:49.439 I/kernel  (  611): [ 1897.738790][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(627): 12-23 12:04:49.443 I/kernel  (  611): [ 1897.742586][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(629): 12-23 12:04:49.445 I/kernel  (  611): [ 1897.744529][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(644): 12-23 12:04:49.451 I/kernel  (  611): [ 1897.750566][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(646): 12-23 12:04:49.453 I/kernel  (  611): [ 1897.753053][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(655): 12-23 12:04:49.458 I/kernel  (  611): [ 1897.757671][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(667): 12-23 12:04:49.461 I/kernel  (  611): [ 1897.760770][wlan][611]kalDelMdnsPassthrough:(REQ ERROR) del mdns passthrough.
+me.txt(670): 12-23 12:04:49.462 I/kernel  (  611): [ 1897.761697][wlan][611]kalDelMdnsPassthrough:(REQ ERROR) del mdns passthrough.
+me.txt(707): 12-23 12:04:49.530 I/kernel  ( 1186): [ 1897.829718][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(713): 12-23 12:04:49.530 I/kernel  (  751): [ 1897.829803][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 4
+me.txt(717): 12-23 12:04:49.530 I/kernel  ( 1186): [ 1897.829923][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(723): 12-23 12:04:49.530 I/kernel  (  751): [ 1897.830124][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 4
+me.txt(731): 12-23 12:04:49.530 I/kernel  (  751): [ 1897.830383][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(739): 12-23 12:04:49.531 I/kernel  (  751): [ 1897.830631][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(774): 12-23 12:04:49.537 I/kernel  (  751): [ 1897.837488][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 4
+me.txt(782): 12-23 12:04:49.538 I/kernel  (  751): [ 1897.838271][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 4
+me.txt(790): 12-23 12:04:49.539 I/kernel  (  751): [ 1897.839128][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(798): 12-23 12:04:49.539 I/kernel  (  751): [ 1897.839458][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(802): 12-23 12:04:49.542 I/kernel  (  567): [ 1897.842123][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(803): 12-23 12:04:49.542 I/kernel  (  567): [ 1897.842128][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(804): 12-23 12:04:49.542 I/kernel  (  567): [ 1897.842133][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(805): 12-23 12:04:49.542 I/kernel  (  567): [ 1897.842138][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(808): 12-23 12:04:49.551 I/kernel  (  567): [ 1897.851290][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(812): 12-23 12:04:49.561 I/kernel  (  567): [ 1897.860885][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(813): 12-23 12:04:49.561 I/kernel  (  567): [ 1897.860890][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(814): 12-23 12:04:49.561 I/kernel  (  567): [ 1897.860895][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(815): 12-23 12:04:49.561 I/kernel  (  567): [ 1897.860898][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(818): 12-23 12:04:49.564 I/kernel  (  567): [ 1897.863891][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(819): 12-23 12:04:49.564 I/kernel  (  567): [ 1897.863896][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(820): 12-23 12:04:49.564 I/kernel  (  567): [ 1897.863900][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(821): 12-23 12:04:49.564 I/kernel  (  567): [ 1897.863904][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(826): 12-23 12:04:49.574 I/kernel  (  567): [ 1897.874085][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(827): 12-23 12:04:49.574 I/kernel  (  567): [ 1897.874091][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(828): 12-23 12:04:49.574 I/kernel  (  567): [ 1897.874095][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(829): 12-23 12:04:49.574 I/kernel  (  567): [ 1897.874099][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(839): 12-23 12:04:49.609 I/kernel  ( 7727): [ 1897.909139][wlan][7727]mtk_cfg80211_vendor_driver_memory_dump:(REQ INFO) LQ: Tx(rate:12010, total:0, Rty:66984309948416, fail:0, RTSF:0, ACKF:0), Rx(rate:12010, total:0, dup:0, error:0), Idle:0
+me.txt(841): 12-23 12:04:49.625 I/kernel  (  567): [ 1897.925409][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(842): 12-23 12:04:49.625 I/kernel  (  567): [ 1897.925415][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(843): 12-23 12:04:49.625 I/kernel  (  567): [ 1897.925419][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(844): 12-23 12:04:49.625 I/kernel  (  567): [ 1897.925423][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(847): 12-23 12:04:49.630 I/kernel  (  567): [ 1897.929911][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(848): 12-23 12:04:49.630 I/kernel  (  567): [ 1897.929916][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(849): 12-23 12:04:49.630 I/kernel  (  567): [ 1897.929920][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(850): 12-23 12:04:49.630 I/kernel  (  567): [ 1897.929925][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(855): 12-23 12:04:49.643 I/kernel  (  567): [ 1897.943512][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(856): 12-23 12:04:49.643 I/kernel  (  567): [ 1897.943519][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(857): 12-23 12:04:49.643 I/kernel  (  567): [ 1897.943523][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(858): 12-23 12:04:49.644 I/kernel  (  567): [ 1897.943527][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(908): 12-23 12:04:50.063 I/kernel  (  567): [ 1898.363249][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(911): 12-23 12:04:50.067 I/kernel  (  567): [ 1898.366738][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(912): 12-23 12:04:50.067 I/kernel  (  567): [ 1898.366743][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(913): 12-23 12:04:50.067 I/kernel  (  567): [ 1898.366747][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(914): 12-23 12:04:50.067 I/kernel  (  567): [ 1898.366752][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(919): 12-23 12:04:50.075 I/kernel  (  567): [ 1898.375241][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(920): 12-23 12:04:50.075 I/kernel  (  567): [ 1898.375246][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(921): 12-23 12:04:50.075 I/kernel  (  567): [ 1898.375250][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(922): 12-23 12:04:50.075 I/kernel  (  567): [ 1898.375254][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(927): 12-23 12:04:50.093 I/kernel  (  567): [ 1898.392826][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(928): 12-23 12:04:50.093 I/kernel  (  567): [ 1898.392831][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(929): 12-23 12:04:50.093 I/kernel  (  567): [ 1898.392835][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(930): 12-23 12:04:50.093 I/kernel  (  567): [ 1898.392839][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(932): 12-23 12:04:50.097 I/kernel  (  567): [ 1898.396755][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(933): 12-23 12:04:50.097 I/kernel  (  567): [ 1898.396760][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(934): 12-23 12:04:50.097 I/kernel  (  567): [ 1898.396764][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(935): 12-23 12:04:50.097 I/kernel  (  567): [ 1898.396768][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(936): 12-23 12:04:50.098 I/kernel  (  493): [ 1898.397989][Panel Driver] Recive tconI2C error result[0] from pqu
+me.txt(937): 12-23 12:04:50.098 I/kernel  (  493): [ 1898.398044][Backlight Driver] Recive bcm error result[0] from pqu
+me.txt(950): 12-23 12:04:50.117 I/kernel  (  567): [ 1898.416729][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(951): 12-23 12:04:50.117 I/kernel  (  567): [ 1898.416734][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(952): 12-23 12:04:50.117 I/kernel  (  567): [ 1898.416738][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(953): 12-23 12:04:50.117 I/kernel  (  567): [ 1898.416742][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(968): 12-23 12:04:50.135 I/kernel  (  567): [ 1898.435272][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(969): 12-23 12:04:50.135 I/kernel  (  567): [ 1898.435277][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(970): 12-23 12:04:50.135 I/kernel  (  567): [ 1898.435281][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(971): 12-23 12:04:50.135 I/kernel  (  567): [ 1898.435285][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(973): 12-23 12:04:50.135 I/kernel  (  567): [ 1898.435314][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(974): 12-23 12:04:50.135 I/kernel  (  567): [ 1898.435318][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(975): 12-23 12:04:50.135 I/kernel  (  567): [ 1898.435322][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(976): 12-23 12:04:50.135 I/kernel  (  567): [ 1898.435325][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(978): 12-23 12:04:50.137 I/kernel  (  567): [ 1898.436566][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(979): 12-23 12:04:50.137 I/kernel  (  567): [ 1898.436571][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(980): 12-23 12:04:50.137 I/kernel  (  567): [ 1898.436575][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(981): 12-23 12:04:50.137 I/kernel  (  567): [ 1898.436579][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(983): 12-23 12:04:50.139 I/kernel  (  567): [ 1898.439393][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(987): 12-23 12:04:50.163 I/kernel  (  567): [ 1898.463229][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(994): 12-23 12:04:50.190 I/kernel  (  567): [ 1898.489793][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1086): 12-23 12:04:50.259 E/RENDER  (  612): _MI_RENDER_ProcessGamma[22415] Failed to _MI_RENDER_ParseGammaJsonStr
+me.txt(1088): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessGamma[22451] <<< FAIL, RET: 18
+me.txt(1089): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_SetGlobalPq[31960] Failed to _MI_RENDER_ProcessPqGamma
+me.txt(1090): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1091): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1092): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1093): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1094): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1095): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1096): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1097): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1098): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1099): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1100): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1101): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1102): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1103): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1104): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1105): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1106): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1107): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1109): 12-23 12:04:50.259 E/RENDER  (  612): _MI_RENDER_ProcessLiveTone[22691] Failed to _MI_RENDER_ParseLdLevel
+me.txt(1110): 12-23 12:04:50.259 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessLiveTone[22707] <<< FAIL, RET: 3
+me.txt(1111): 12-23 12:04:50.259 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32046] Failed to _MI_RENDER_ProcessLiveTone
+me.txt(1112): 12-23 12:04:50.260 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32092] Copy controller callback node failed.
+me.txt(1113): 12-23 12:04:50.260 E/RENDER  (  612): [ERROR]MI_RENDER_SetGlobalPq[32116] <<< FAIL, RET: 8
+me.txt(1118): 12-23 12:04:50.285 I/kernel  (  567): [ 1898.585182][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1245): 12-23 12:04:50.509 E/RENDER  (  612): _MI_RENDER_ProcessGamma[22415] Failed to _MI_RENDER_ParseGammaJsonStr
+me.txt(1246): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessGamma[22451] <<< FAIL, RET: 18
+me.txt(1247): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_SetGlobalPq[31960] Failed to _MI_RENDER_ProcessPqGamma
+me.txt(1248): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1249): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1250): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1251): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1252): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1253): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1254): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1255): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1256): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1257): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1258): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1259): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1260): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1261): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1262): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1263): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1264): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1265): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1267): 12-23 12:04:50.509 E/RENDER  (  612): _MI_RENDER_ProcessLiveTone[22691] Failed to _MI_RENDER_ParseLdLevel
+me.txt(1268): 12-23 12:04:50.509 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessLiveTone[22707] <<< FAIL, RET: 3
+me.txt(1269): 12-23 12:04:50.509 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32046] Failed to _MI_RENDER_ProcessLiveTone
+me.txt(1270): 12-23 12:04:50.510 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32092] Copy controller callback node failed.
+me.txt(1271): 12-23 12:04:50.510 E/RENDER  (  612): [ERROR]MI_RENDER_SetGlobalPq[32116] <<< FAIL, RET: 8
+me.txt(1275): 12-23 12:04:50.576 I/kernel  (  567): [ 1898.876220][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1291): 12-23 12:04:50.647 I/kernel  (  567): [ 1898.947148][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1292): 12-23 12:04:50.647 I/kernel  (  567): [ 1898.947153][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1293): 12-23 12:04:50.647 I/kernel  (  567): [ 1898.947157][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1294): 12-23 12:04:50.647 I/kernel  (  567): [ 1898.947161][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1298): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.954799][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1299): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.954805][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1300): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.954810][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1301): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.954815][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1303): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.954861][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1304): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.954865][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1305): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.954870][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1306): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.954875][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1308): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.955494][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1309): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.955499][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1310): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.955504][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1311): 12-23 12:04:50.655 I/kernel  (  567): [ 1898.955508][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1313): 12-23 12:04:50.656 I/kernel  (  567): [ 1898.955536][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1314): 12-23 12:04:50.656 I/kernel  (  567): [ 1898.955540][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1315): 12-23 12:04:50.656 I/kernel  (  567): [ 1898.955545][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1316): 12-23 12:04:50.656 I/kernel  (  567): [ 1898.955549][wlan][567]scanCheckEpigramVhtIE:(RLM WARN) [Epigram] prEpiIE->ucLength is too short, skip!
+me.txt(1409): 12-23 12:04:50.860 E/RENDER  (  612): _MI_RENDER_ProcessGamma[22415] Failed to _MI_RENDER_ParseGammaJsonStr
+me.txt(1410): 12-23 12:04:50.860 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessGamma[22451] <<< FAIL, RET: 18
+me.txt(1411): 12-23 12:04:50.860 E/RENDER  (  612): MI_RENDER_SetGlobalPq[31960] Failed to _MI_RENDER_ProcessPqGamma
+me.txt(1412): 12-23 12:04:50.860 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1413): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1414): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1415): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1416): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1417): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1418): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1419): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1420): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1421): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1422): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1423): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1424): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1425): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1426): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1427): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1428): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1429): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1431): 12-23 12:04:50.861 E/RENDER  (  612): _MI_RENDER_ProcessLiveTone[22691] Failed to _MI_RENDER_ParseLdLevel
+me.txt(1432): 12-23 12:04:50.861 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessLiveTone[22707] <<< FAIL, RET: 3
+me.txt(1433): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32046] Failed to _MI_RENDER_ProcessLiveTone
+me.txt(1434): 12-23 12:04:50.861 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32092] Copy controller callback node failed.
+me.txt(1435): 12-23 12:04:50.862 E/RENDER  (  612): [ERROR]MI_RENDER_SetGlobalPq[32116] <<< FAIL, RET: 8
+me.txt(1451): 12-23 12:04:51.015 I/kernel  (  567): [ 1899.315325][wlan][567]scanAddToBssDesc:(SCN WARN) MBSSID IE_LEN err(1)!
+me.txt(1453): 12-23 12:04:51.072 I/kernel  (  567): [ 1899.371609][wlan][567]scanAddToBssDesc:(SCN WARN) MBSSID IE_LEN err(1)!
+me.txt(1504): 12-23 12:04:51.458 I/kernel  (  567): [ 1899.758430][wlan][567]scanAddToBssDesc:(SCN WARN) MBSSID IE_LEN err(1)!
+me.txt(1578): 12-23 12:04:51.459 E/RENDER  (  612): _MI_RENDER_ProcessGamma[22415] Failed to _MI_RENDER_ParseGammaJsonStr
+me.txt(1579): 12-23 12:04:51.459 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessGamma[22451] <<< FAIL, RET: 18
+me.txt(1580): 12-23 12:04:51.459 E/RENDER  (  612): MI_RENDER_SetGlobalPq[31960] Failed to _MI_RENDER_ProcessPqGamma
+me.txt(1581): 12-23 12:04:51.459 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1582): 12-23 12:04:51.459 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1583): 12-23 12:04:51.459 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1584): 12-23 12:04:51.459 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1585): 12-23 12:04:51.459 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1586): 12-23 12:04:51.459 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1587): 12-23 12:04:51.459 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1588): 12-23 12:04:51.459 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1589): 12-23 12:04:51.460 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1590): 12-23 12:04:51.460 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1591): 12-23 12:04:51.460 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1592): 12-23 12:04:51.460 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1593): 12-23 12:04:51.460 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1594): 12-23 12:04:51.460 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1595): 12-23 12:04:51.460 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1596): 12-23 12:04:51.460 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1597): 12-23 12:04:51.460 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1598): 12-23 12:04:51.460 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1600): 12-23 12:04:51.460 E/RENDER  (  612): _MI_RENDER_ProcessLiveTone[22691] Failed to _MI_RENDER_ParseLdLevel
+me.txt(1601): 12-23 12:04:51.460 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessLiveTone[22707] <<< FAIL, RET: 3
+me.txt(1602): 12-23 12:04:51.460 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32046] Failed to _MI_RENDER_ProcessLiveTone
+me.txt(1603): 12-23 12:04:51.461 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32092] Copy controller callback node failed.
+me.txt(1604): 12-23 12:04:51.461 E/RENDER  (  612): [ERROR]MI_RENDER_SetGlobalPq[32116] <<< FAIL, RET: 8
+me.txt(1606): 12-23 12:04:51.508 I/kernel  (  567): [ 1899.808379][wlan][567]scanAddToBssDesc:(SCN WARN) MBSSID IE_LEN err(1)!
+me.txt(1608): 12-23 12:04:51.612 I/kernel  (  567): [ 1899.912000][wlan][567]scanAddToBssDesc:(SCN WARN) MBSSID IE_LEN err(1)!
+me.txt(1694): 12-23 12:04:51.710 E/RENDER  (  612): _MI_RENDER_ProcessGamma[22415] Failed to _MI_RENDER_ParseGammaJsonStr
+me.txt(1695): 12-23 12:04:51.710 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessGamma[22451] <<< FAIL, RET: 18
+me.txt(1696): 12-23 12:04:51.710 E/RENDER  (  612): MI_RENDER_SetGlobalPq[31960] Failed to _MI_RENDER_ProcessPqGamma
+me.txt(1697): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1698): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1699): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1700): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1701): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1702): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1703): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1704): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1705): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseGain[584] <<< FAIL, RET: 18
+me.txt(1706): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1404] Failed to _MI_RENDER_GRAPHIC_ParseGain
+me.txt(1707): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseOffset[701] <<< FAIL, RET: 18
+me.txt(1708): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1413] Failed to _MI_RENDER_GRAPHIC_ParseOffset
+me.txt(1709): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1710): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1711): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1712): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1713): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_GRAPHIC_ParseColorTuning[819] <<< FAIL, RET: 18
+me.txt(1714): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_GRAPHIC_ProcessPq[1425] Failed to _MI_RENDER_GRAPHIC_ParseColorTuning
+me.txt(1716): 12-23 12:04:51.711 E/RENDER  (  612): _MI_RENDER_ProcessLiveTone[22691] Failed to _MI_RENDER_ParseLdLevel
+me.txt(1717): 12-23 12:04:51.711 E/RENDER  (  612): [ERROR]_MI_RENDER_ProcessLiveTone[22707] <<< FAIL, RET: 3
+me.txt(1718): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32046] Failed to _MI_RENDER_ProcessLiveTone
+me.txt(1719): 12-23 12:04:51.711 E/RENDER  (  612): MI_RENDER_SetGlobalPq[32092] Copy controller callback node failed.
+me.txt(1720): 12-23 12:04:51.712 E/RENDER  (  612): [ERROR]MI_RENDER_SetGlobalPq[32116] <<< FAIL, RET: 8
+me.txt(1721): 12-23 12:04:51.740 W/kernel  (  535): [ 1900.040333][drm] [mtk_tv_sm_ml_get_mem_index][353] sm_ml_get_mem_index(fd:0x1000) fail_cnt:1, list_cmd:0, ret = 0
+me.txt(1722): 12-23 12:04:51.740 W/kernel  (  535): [ 1900.040346][drm] [mtk_tv_sm_get_mem_index][153] 0x4000000004 get ML mem fail, ret=-22
+me.txt(1723): 12-23 12:04:51.740 W/kernel  (  535): [ 1900.040361][drm] disp_irq_ml get memory index fail, ret=-22
+me.txt(1761): 12-23 12:04:51.856 I/kernel  ( 1186): [ 1900.155644][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(1776): 12-23 12:04:51.856 I/kernel  ( 1186): [ 1900.156041][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(1925): 12-23 12:04:51.910 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(1926): 12-23 12:04:51.910 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(1947): 12-23 12:04:51.914 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(1948): 12-23 12:04:51.914 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(1964): 12-23 12:04:51.915 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(1965): 12-23 12:04:51.915 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(1985): 12-23 12:04:51.915 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(1986): 12-23 12:04:51.915 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(2002): 12-23 12:04:51.916 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(2003): 12-23 12:04:51.916 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(2019): 12-23 12:04:51.916 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(2020): 12-23 12:04:51.916 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(2042): 12-23 12:04:51.919 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(2043): 12-23 12:04:51.919 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(2059): 12-23 12:04:51.920 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(2060): 12-23 12:04:51.920 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(2082): 12-23 12:04:51.922 V/WifiLastResortWatchdog(  751):  02:64:cf:73:7e:01: "DEVLINK_DECO_be75-6g" HasEverConnected: true, Failures: {Assoc: 0, Auth: 0, Dhcp: 0}, Age: 0
+me.txt(2083): 12-23 12:04:51.922 V/WifiLastResortWatchdog(  751):  02:64:cf:73:7d:41: "DEVLINK_DECO_be75-6g" HasEverConnected: true, Failures: {Assoc: 0, Auth: 0, Dhcp: 0}, Age: 0
+me.txt(2084): 12-23 12:04:51.922 V/WifiLastResortWatchdog(  751): mSsidFailureCount:
+me.txt(2085): 12-23 12:04:51.922 V/WifiLastResortWatchdog(  751): "DEVLINK_DECO_be75-6g": 2, HasEverConnected: true, Failures: {Assoc: 0, Auth: 0, Dhcp: 0}
+me.txt(2088): 12-23 12:04:51.925 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(2089): 12-23 12:04:51.925 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(2105): 12-23 12:04:51.926 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(2106): 12-23 12:04:51.926 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(2125): 12-23 12:04:51.939 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(2126): 12-23 12:04:51.939 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(2198): 12-23 12:04:51.954 I/kernel  ( 1186): [ 1900.254423][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(2206): 12-23 12:04:51.952 D/WifiNl80211Manager(  751): Pno Scan failed event
+me.txt(2207): 12-23 12:04:51.952 D/WifiNative(  751): Pno Scan failed event
+me.txt(2303): 12-23 12:04:52.005 I/kernel  ( 1186): [ 1900.305021][wlan][1186]mtk_cfg80211_auth:(REQ WARN) SSID len 401, ssid DEVLINK_DECO_be75-6g, 20
+me.txt(2342): 12-23 12:04:52.000 D/wpa_supplicant( 1186): EAPOL: External notification - EAP fail=0
+me.txt(2398): 12-23 12:04:52.007 D/SupplicantStateTracker(  751): Queuing broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=AUTHENTICATING failedAuth=false reasonCode=0
+me.txt(2399): 12-23 12:04:52.007 D/SupplicantStateTracker(  751): Sending broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=AUTHENTICATING failedAuth=false reasonCode=0
+me.txt(2411): 12-23 12:04:52.006 I/kernel  ( 1186): [ 1900.305888][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(2475): 12-23 12:04:52.027 I/kernel  ( 1186): [ 1900.326584][wlan][1186]mtk_cfg_get_txpower:(REQ WARN) STA doesn't support this function
+me.txt(2489): 12-23 12:04:52.027 I/kernel  ( 1186): [ 1900.327525][wlan][1186]kalIoctlByBssIdx:(OID WARN) kalIoctl: ret ErrCode: c0010014
+me.txt(2490): 12-23 12:04:52.028 I/kernel  ( 1186): [ 1900.327530][wlan][1186]mtk_cfg80211_assoc:(SEC WARN) [wapi] set wapi assoc info error:c0010014
+me.txt(2505): 12-23 12:04:52.026 D/SupplicantStateTracker(  751): Queuing broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=ASSOCIATING failedAuth=false reasonCode=0
+me.txt(2506): 12-23 12:04:52.026 D/SupplicantStateTracker(  751): Sending broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=ASSOCIATING failedAuth=false reasonCode=0
+me.txt(2525): 12-23 12:04:52.043 I/kernel  (  567): [ 1900.343250][wlan][567]mqmProcessAssocRsp:(QM WARN) QM: remove assoc resp qosmapset ie
+me.txt(2533): 12-23 12:04:52.043 I/kernel  (  567): [ 1900.343327][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(2680): 12-23 12:04:52.049 I/kernel  (  567): [ 1900.349230][wlan][567]nicGetPendingTxMsduInfo:(TX WARN) Cannot get Target Msdu WIDX:PID[2:251] from Pending Q
+me.txt(2685): 12-23 12:04:52.048 D/SupplicantStateTracker(  751): Queuing broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=ASSOCIATED failedAuth=false reasonCode=0
+me.txt(2694): 12-23 12:04:52.048 D/SupplicantStateTracker(  751): Sending broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=ASSOCIATED failedAuth=false reasonCode=0
+me.txt(2786): 12-23 12:04:52.051 D/SupplicantStateTracker(  751): Queuing broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=FOUR_WAY_HANDSHAKE failedAuth=false reasonCode=0
+me.txt(2787): 12-23 12:04:52.051 D/SupplicantStateTracker(  751): Sending broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=FOUR_WAY_HANDSHAKE failedAuth=false reasonCode=0
+me.txt(2802): 12-23 12:04:52.053 D/SupplicantStateTracker(  751): Queuing broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=GROUP_HANDSHAKE failedAuth=false reasonCode=0
+me.txt(2803): 12-23 12:04:52.053 D/SupplicantStateTracker(  751): Sending broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=GROUP_HANDSHAKE failedAuth=false reasonCode=0
+me.txt(2889): 12-23 12:04:52.074 D/SupplicantStateTracker(  751): Queuing broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=COMPLETED failedAuth=false reasonCode=0
+me.txt(2890): 12-23 12:04:52.074 D/SupplicantStateTracker(  751): Sending broadcast=SUPPLICANT_STATE_CHANGED_ACTION state=COMPLETED failedAuth=false reasonCode=0
+me.txt(2961): 12-23 12:04:52.115 E/WifiStaIfaceAidlImpl(  751): setDtimMultiplier failed with service-specific exception: android.os.ServiceSpecificException:  (code 4)
+me.txt(2962): 12-23 12:04:52.115 D/WifiClientModeImpl(  751): Set maximum DTIM Multiplier to 1 FAIL
+me.txt(2980): 12-23 12:04:52.121 I/kernel  (  567): [ 1900.420614][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(3080): 12-23 12:04:52.156 W/resolv  (  391): Socket failed to connect: Network is unreachable
+me.txt(3157): 12-23 12:04:52.156 V/WifiNetworkSuggestionsManager(  751): recentFailure: Association Rejection code: 0, last update time: 0
+me.txt(3161): 12-23 12:04:52.156 W/resolv  (  391): TCP Handshake failed: 101
+me.txt(3162): 12-23 12:04:52.156 W/resolv  (  391): query failed
+me.txt(3165): 12-23 12:04:52.157 W/resolv  (  391): Validation failed
+me.txt(3179): 12-23 12:04:52.161 W/resolv  (  391): Socket failed to connect: Network is unreachable
+me.txt(3180): 12-23 12:04:52.161 W/resolv  (  391): TCP Handshake failed: 101
+me.txt(3181): 12-23 12:04:52.161 W/resolv  (  391): query failed
+me.txt(3184): 12-23 12:04:52.162 W/resolv  (  391): Validation failed
+me.txt(3218): 12-23 12:04:52.172 V/WifiLastResortWatchdog(  751): clearAllFailureCounts.
+me.txt(3226): 12-23 12:04:52.173 D/WifiScoreCard(  751):  StatsRecent:  ConnectAttempt: 20 ConnectFailure: 0 ConnectDurSec: 63599 AssocRej: 0 AssocTimeout: 0 AuthFailure: 0 ShortDiscNonlocal: 0 DisconnectNonlocal: 0 Disconnect: 0 ConsecutiveConnectFailure: 0 ConnectFailureDiscon: 0 ConsecutiveWrongPassword: 0
+me.txt(3227): 12-23 12:04:52.173 D/WifiScoreCard(  751):  StatsCurr:  ConnectAttempt: 0 ConnectFailure: 0 ConnectDurSec: 0 AssocRej: 0 AssocTimeout: 0 AuthFailure: 0 ShortDiscNonlocal: 0 DisconnectNonlocal: 0 Disconnect: 0 ConsecutiveConnectFailure: 0 ConnectFailureDiscon: 0 ConsecutiveWrongPassword: 0
+me.txt(3228): 12-23 12:04:52.173 D/WifiScoreCard(  751):  StatsPrev:  ConnectAttempt: 0 ConnectFailure: 0 ConnectDurSec: 0 AssocRej: 0 AssocTimeout: 0 AuthFailure: 0 ShortDiscNonlocal: 0 DisconnectNonlocal: 0 Disconnect: 0 ConsecutiveConnectFailure: 0 ConnectFailureDiscon: 0 ConsecutiveWrongPassword: 0 BandwidthStats:
+me.txt(3247): 12-23 12:04:52.175 W/resolv  (  391): SSL_connect ssl error =5, mark 0xf006d: Connection refused
+me.txt(3248): 12-23 12:04:52.175 W/resolv  (  391): SSL_connect ssl error =5, mark 0xf006d: Connection refused
+me.txt(3249): 12-23 12:04:52.175 W/resolv  (  391): TLS Handshake failed
+me.txt(3250): 12-23 12:04:52.175 W/resolv  (  391): TLS Handshake failed
+me.txt(3251): 12-23 12:04:52.175 W/resolv  (  391): query failed
+me.txt(3253): 12-23 12:04:52.176 W/resolv  (  391): Validation failed
+me.txt(3254): 12-23 12:04:52.176 W/resolv  (  391): query failed
+me.txt(3256): 12-23 12:04:52.176 W/resolv  (  391): Validation failed
+me.txt(3275): 12-23 12:04:52.187 E/WifiStaIfaceAidlImpl(  751): stopRssiMonitoring failed with service-specific exception: android.os.ServiceSpecificException:  (code 5)
+me.txt(3298): 12-23 12:04:52.223 I/kernel  (  567): [ 1900.523142][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(3346): 12-23 12:04:52.223 I/cast_shell( 3656): [1223/120452.223841:INFO:client_auth_signer.cc(226)] Cast certificate verification: CastCertError::OK
+me.txt(3350): 12-23 12:04:52.224 W/cast_shell( 3656): [1223/120452.224099:WARNING:ccs_manager_impl.cc(1728)] Device does not have a weave device id
+me.txt(3354): 12-23 12:04:52.224 W/cast_shell( 3656): [1223/120452.224357:WARNING:robot_account_auth_manager.cc(346)] Restarting auth token refresh timer.
+me.txt(3407): 12-23 12:04:52.256 E/cast_shell( 3656): [1223/120452.256762:ERROR:libupnp_wrapper_impl_posix.cc(58)] failed to bind socket: 163, 0
+me.txt(3447): 12-23 12:04:52.267 I/TrafficStats( 1699): tagSocketFd(-1, 1031, -1) failed with errno-9
+me.txt(3459): 12-23 12:04:52.270 W/chromium( 7024): [1223/120452.270324:WARNING:net/dns/dns_config_service_android.cc:69] Failed to read DnsConfig.
+me.txt(3556): 12-23 12:04:52.291 E/ActivityThread( 1205): Failed to find provider info for com.sony.dtv.bivlinfo.provider.ServiceListProvider
+me.txt(3570): 12-23 12:04:52.298 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(3572): 12-23 12:04:52.299 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {51} on iface {wlan0}
+me.txt(3573): 12-23 12:04:52.299 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(3599): 12-23 12:04:52.300 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(3600): 12-23 12:04:52.301 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {12} on iface {wlan0}
+me.txt(3601): 12-23 12:04:52.301 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(3627): 12-23 12:04:52.302 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(3628): 12-23 12:04:52.306 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {13} on iface {wlan0}
+me.txt(3629): 12-23 12:04:52.306 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(3661): 12-23 12:04:52.307 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(3664): 12-23 12:04:52.308 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {19} on iface {wlan0}
+me.txt(3665): 12-23 12:04:52.308 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(3695): 12-23 12:04:52.308 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(3706): 12-23 12:04:52.314 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {25} on iface {wlan0}
+me.txt(3707): 12-23 12:04:52.314 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(3733): 12-23 12:04:52.315 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(3734): 12-23 12:04:52.315 W/chromium( 6786): [1223/120452.315849:WARNING:net/dns/dns_config_service_android.cc:69] Failed to read DnsConfig.
+me.txt(3735): 12-23 12:04:52.318 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {46} on iface {wlan0}
+me.txt(3736): 12-23 12:04:52.318 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(3786): 12-23 12:04:52.334 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(3787): 12-23 12:04:52.334 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(3850): 12-23 12:04:52.368 W/resolv  (  391): SSL_connect ssl error =5, mark 0xf006d: Connection refused
+me.txt(3852): 12-23 12:04:52.368 W/resolv  (  391): TLS Handshake failed
+me.txt(3856): 12-23 12:04:52.368 W/resolv  (  391): query failed
+me.txt(3859): 12-23 12:04:52.368 W/resolv  (  391): Validation failed
+me.txt(3863): 12-23 12:04:52.373 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(3864): 12-23 12:04:52.373 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(3921): 12-23 12:04:52.275 I/kernel  (  751): [ 1900.574948][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 4
+me.txt(3929): 12-23 12:04:52.275 I/kernel  (  751): [ 1900.575224][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 4
+me.txt(3937): 12-23 12:04:52.275 I/kernel  (  751): [ 1900.575480][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(3945): 12-23 12:04:52.276 I/kernel  (  751): [ 1900.575743][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(3953): 12-23 12:04:52.302 I/kernel  (  611): [ 1900.602177][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(3955): 12-23 12:04:52.304 I/kernel  (  611): [ 1900.603730][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(3957): 12-23 12:04:52.306 I/kernel  (  611): [ 1900.605554][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(3961): 12-23 12:04:52.311 I/kernel  (  611): [ 1900.610850][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(3963): 12-23 12:04:52.312 I/kernel  (  611): [ 1900.612212][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(3965): 12-23 12:04:52.319 I/kernel  (  611): [ 1900.618974][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(3969): 12-23 12:04:52.325 I/kernel  (  567): [ 1900.625420][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(3977): 12-23 12:04:52.332 I/kernel  (  611): [ 1900.631850][wlan][611]kalGetMdnsUsedSize:(REQ ERROR) mdns used size 0 .
+me.txt(3993): 12-23 12:04:52.394 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(3994): 12-23 12:04:52.394 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(4016): 12-23 12:04:52.397 W/resolv  (  391): SSL_connect ssl error =5, mark 0xf006d: Connection refused
+me.txt(4017): 12-23 12:04:52.397 W/resolv  (  391): TLS Handshake failed
+me.txt(4018): 12-23 12:04:52.397 W/resolv  (  391): query failed
+me.txt(4020): 12-23 12:04:52.397 W/resolv  (  391): Validation failed
+me.txt(4024): 12-23 12:04:52.398 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(4025): 12-23 12:04:52.398 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(4070): 12-23 12:04:52.428 I/kernel  (  567): [ 1900.727820][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4116): 12-23 12:04:52.530 I/kernel  (  567): [ 1900.830182][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4146): 12-23 12:04:52.633 I/kernel  (  567): [ 1900.932587][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4150): 12-23 12:04:52.645 I/cast_shell( 3656): [1223/120452.645359:INFO:metrics_recorder.cc(193)] cast event: Cast.RobotAccountAuth.Update.NETWORK_ERROR.NO_ERROR
+me.txt(4151): 12-23 12:04:52.645 I/cast_shell( 3656): [1223/120452.645412:INFO:robot_account_auth_manager.cc(740)] Current error: NETWORK_ERROR, new error: NO_ERROR
+me.txt(4157): 12-23 12:04:52.659 W/TrustedTimeHelper( 1699): TrustedTime initialization task failed
+me.txt(4158): 12-23 12:04:52.659 W/TrustedTimeHelper( 1699): adwb: 17: API: TrustedTime.API is not available on this device. Connection failed with: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+me.txt(4179): 12-23 12:04:52.735 I/kernel  (  567): [ 1901.034983][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4212): 12-23 12:04:52.837 I/kernel  (  567): [ 1901.137399][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4326): 12-23 12:04:52.903 I/kernel  (  751): [ 1901.203449][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 5
+me.txt(4334): 12-23 12:04:52.904 I/kernel  (  751): [ 1901.203984][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 4
+me.txt(4342): 12-23 12:04:52.904 I/kernel  (  751): [ 1901.204278][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(4350): 12-23 12:04:52.905 I/kernel  (  751): [ 1901.205148][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(4359): 12-23 12:04:52.910 I/kernel  (  751): [ 1901.209792][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 5
+me.txt(4368): 12-23 12:04:52.910 I/kernel  (  751): [ 1901.210165][wlan][751]priv_driver_set_wow_tcpport:(REQ WARN) argc is 4
+me.txt(4376): 12-23 12:04:52.910 I/kernel  (  751): [ 1901.210424][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(4384): 12-23 12:04:52.911 I/kernel  (  751): [ 1901.210674][wlan][751]priv_driver_set_wow_udpport:(REQ WARN) argc is 3
+me.txt(4398): 12-23 12:04:52.940 I/kernel  (  567): [ 1901.239811][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4417): 12-23 12:04:53.042 I/kernel  (  567): [ 1901.342185][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4448): 12-23 12:04:53.115 I/kernel  (    0): [ 1901.415212][    C3] [wlan][0]nicGetPhyRateByMcsRate:(RX WARN) Invalid McsRate: ucIdx=0, ucBw=0, ucGI=2
+me.txt(4457): 12-23 12:04:53.117 E/netd    (  391): Error adding route ::/0 -> fe80::3e64:cfff:fe73:7dfc wlan0 to table 1016: File exists
+me.txt(4483): 12-23 12:04:53.132 I/kernel  (  611): [ 1901.432079][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4484): 12-23 12:04:53.128 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4485): 12-23 12:04:53.129 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {51} on iface {wlan0}
+me.txt(4486): 12-23 12:04:53.129 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4514): 12-23 12:04:53.130 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4517): 12-23 12:04:53.134 I/kernel  (  611): [ 1901.434016][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4518): 12-23 12:04:53.132 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {12} on iface {wlan0}
+me.txt(4519): 12-23 12:04:53.132 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4545): 12-23 12:04:53.133 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4547): 12-23 12:04:53.137 I/kernel  (  611): [ 1901.437080][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4548): 12-23 12:04:53.135 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {13} on iface {wlan0}
+me.txt(4549): 12-23 12:04:53.135 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4577): 12-23 12:04:53.140 I/kernel  (  611): [ 1901.439989][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4578): 12-23 12:04:53.136 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4579): 12-23 12:04:53.137 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {19} on iface {wlan0}
+me.txt(4580): 12-23 12:04:53.137 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4606): 12-23 12:04:53.138 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4607): 12-23 12:04:53.139 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {25} on iface {wlan0}
+me.txt(4608): 12-23 12:04:53.139 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4634): 12-23 12:04:53.139 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4636): 12-23 12:04:53.142 I/kernel  (  611): [ 1901.441989][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4639): 12-23 12:04:53.143 I/kernel  (  611): [ 1901.443403][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4640): 12-23 12:04:53.140 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {46} on iface {wlan0}
+me.txt(4641): 12-23 12:04:53.140 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4673): 12-23 12:04:53.145 I/kernel  (  567): [ 1901.444540][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4676): 12-23 12:04:53.145 I/kernel  (  611): [ 1901.444868][wlan][611]kalDelMdnsPassthrough:(REQ ERROR) del mdns passthrough.
+me.txt(4682): 12-23 12:04:53.147 I/kernel  (  611): [ 1901.446738][wlan][611]kalGetMdnsUsedSize:(REQ ERROR) mdns used size 0 .
+me.txt(4712): 12-23 12:04:53.230 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4713): 12-23 12:04:53.230 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {12} on iface {wlan0}
+me.txt(4714): 12-23 12:04:53.230 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4738): 12-23 12:04:53.231 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4739): 12-23 12:04:53.231 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {13} on iface {wlan0}
+me.txt(4740): 12-23 12:04:53.231 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4764): 12-23 12:04:53.233 I/kernel  (  611): [ 1901.533518][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4766): 12-23 12:04:53.235 I/kernel  (  611): [ 1901.534749][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4768): 12-23 12:04:53.236 I/kernel  (  611): [ 1901.536043][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4770): 12-23 12:04:53.237 I/kernel  (  611): [ 1901.537332][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4776): 12-23 12:04:53.233 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4777): 12-23 12:04:53.234 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {25} on iface {wlan0}
+me.txt(4778): 12-23 12:04:53.234 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4802): 12-23 12:04:53.235 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4803): 12-23 12:04:53.236 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {46} on iface {wlan0}
+me.txt(4804): 12-23 12:04:53.236 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4828): 12-23 12:04:53.237 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4829): 12-23 12:04:53.238 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {52} on iface {wlan0}
+me.txt(4830): 12-23 12:04:53.238 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4848): 12-23 12:04:53.239 I/kernel  (  611): [ 1901.538932][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4850): 12-23 12:04:53.241 I/kernel  (  611): [ 1901.540909][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4857): 12-23 12:04:53.239 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4858): 12-23 12:04:53.239 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {12} on iface {wlan0}
+me.txt(4859): 12-23 12:04:53.239 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4883): 12-23 12:04:53.242 I/kernel  (  611): [ 1901.542505][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4885): 12-23 12:04:53.244 I/kernel  (  611): [ 1901.543978][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4887): 12-23 12:04:53.240 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4888): 12-23 12:04:53.241 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {13} on iface {wlan0}
+me.txt(4889): 12-23 12:04:53.241 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4913): 12-23 12:04:53.242 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4914): 12-23 12:04:53.242 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {19} on iface {wlan0}
+me.txt(4915): 12-23 12:04:53.242 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4939): 12-23 12:04:53.243 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4940): 12-23 12:04:53.244 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {25} on iface {wlan0}
+me.txt(4941): 12-23 12:04:53.244 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(4961): 12-23 12:04:53.245 I/kernel  (  611): [ 1901.545460][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4963): 12-23 12:04:53.247 I/kernel  (  611): [ 1901.546809][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4965): 12-23 12:04:53.247 I/kernel  (  567): [ 1901.547038][wlan][567]heRlmRecHeMcsMap:(RLM WARN) Change HeRxMcsMapBW80 from 0xffaa to 0xfffa
+me.txt(4967): 12-23 12:04:53.248 I/kernel  (  611): [ 1901.548245][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(4974): 12-23 12:04:53.244 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(4975): 12-23 12:04:53.246 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {46} on iface {wlan0}
+me.txt(4976): 12-23 12:04:53.246 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5001): 12-23 12:04:53.247 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5004): 12-23 12:04:53.251 I/kernel  (  611): [ 1901.551038][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5006): 12-23 12:04:53.248 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {52} on iface {wlan0}
+me.txt(5007): 12-23 12:04:53.248 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5033): 12-23 12:04:53.254 I/kernel  (  611): [ 1901.553664][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5035): 12-23 12:04:53.256 I/kernel  (  611): [ 1901.555815][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5037): 12-23 12:04:53.257 I/kernel  (  611): [ 1901.557353][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5039): 12-23 12:04:53.259 I/kernel  (  611): [ 1901.558880][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5040): 12-23 12:04:53.250 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5043): 12-23 12:04:53.251 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {12} on iface {wlan0}
+me.txt(5044): 12-23 12:04:53.251 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5070): 12-23 12:04:53.252 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5073): 12-23 12:04:53.252 E/cast_shell( 3656): [1223/120453.252883:ERROR:application_config_manager_impl.cc(342)] New idle screen app doesn't exist: E8C28D3C
+me.txt(5075): 12-23 12:04:53.253 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {13} on iface {wlan0}
+me.txt(5076): 12-23 12:04:53.253 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5101): 12-23 12:04:53.253 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5103): 12-23 12:04:53.254 E/DrmHalHidl( 3656): Failed to find passthrough drm factories
+me.txt(5104): 12-23 12:04:53.254 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {19} on iface {wlan0}
+me.txt(5105): 12-23 12:04:53.254 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5130): 12-23 12:04:53.255 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5133): 12-23 12:04:53.256 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {25} on iface {wlan0}
+me.txt(5134): 12-23 12:04:53.256 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5159): 12-23 12:04:53.257 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5161): 12-23 12:04:53.257 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {46} on iface {wlan0}
+me.txt(5162): 12-23 12:04:53.257 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5189): 12-23 12:04:53.258 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5191): 12-23 12:04:53.259 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {53} on iface {wlan0}
+me.txt(5192): 12-23 12:04:53.259 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5229): 12-23 12:04:53.261 I/kernel  (  611): [ 1901.560598][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5231): 12-23 12:04:53.262 I/kernel  (  611): [ 1901.562185][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5234): 12-23 12:04:53.264 I/kernel  (  611): [ 1901.563930][wlan][611]kalDelMdnsPassthrough:(REQ ERROR) del mdns passthrough.
+me.txt(5239): 12-23 12:04:53.266 I/kernel  (  611): [ 1901.565699][wlan][611]kalGetMdnsUsedSize:(REQ ERROR) mdns used size 0 .
+me.txt(5245): 12-23 12:04:53.267 I/kernel  (  611): [ 1901.566556][wlan][611]kalGetMdnsUsedSize:(REQ ERROR) mdns used size 23 .
+me.txt(5247): 12-23 12:04:53.265 I/WVCdm   (  664): [file_utils.cpp(38):Exists] stat failed: ENOENT
+me.txt(5254): 12-23 12:04:53.272 I/WVCdm   (  664): [file_utils.cpp(38):Exists] stat failed: ENOENT
+me.txt(5260): 12-23 12:04:53.273 I/WVCdm   (  664): [file_utils.cpp(38):Exists] stat failed: ENOENT
+me.txt(5261): 12-23 12:04:53.273 I/WVCdm   (  664): [file_utils.cpp(38):Exists] stat failed: ENOENT
+me.txt(5263): 12-23 12:04:53.273 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5264): 12-23 12:04:53.274 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {52} on iface {wlan0}
+me.txt(5265): 12-23 12:04:53.274 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5289): 12-23 12:04:53.275 I/WVCdm   (  664): [file_utils.cpp(38):Exists] stat failed: ENOENT
+me.txt(5290): 12-23 12:04:53.275 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5291): 12-23 12:04:53.275 I/WVCdm   (  664): [file_utils.cpp(38):Exists] stat failed: ENOENT
+me.txt(5292): 12-23 12:04:53.275 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {12} on iface {wlan0}
+me.txt(5293): 12-23 12:04:53.275 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5316): 12-23 12:04:53.277 I/kernel  (  611): [ 1901.577094][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5318): 12-23 12:04:53.279 I/kernel  (  611): [ 1901.578664][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5322): 12-23 12:04:53.277 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5324): 12-23 12:04:53.277 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {13} on iface {wlan0}
+me.txt(5325): 12-23 12:04:53.277 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5349): 12-23 12:04:53.281 I/kernel  (  611): [ 1901.580577][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5351): 12-23 12:04:53.278 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5353): 12-23 12:04:53.279 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {19} on iface {wlan0}
+me.txt(5354): 12-23 12:04:53.279 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5379): 12-23 12:04:53.279 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5381): 12-23 12:04:53.282 I/kernel  (  611): [ 1901.581888][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5383): 12-23 12:04:53.283 I/kernel  (  611): [ 1901.583258][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5384): 12-23 12:04:53.280 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {25} on iface {wlan0}
+me.txt(5385): 12-23 12:04:53.280 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5409): 12-23 12:04:53.281 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5410): 12-23 12:04:53.282 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {46} on iface {wlan0}
+me.txt(5411): 12-23 12:04:53.282 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5435): 12-23 12:04:53.282 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5436): 12-23 12:04:53.283 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {53} on iface {wlan0}
+me.txt(5437): 12-23 12:04:53.283 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5456): 12-23 12:04:53.285 I/kernel  (  611): [ 1901.585027][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5458): 12-23 12:04:53.286 I/kernel  (  611): [ 1901.586374][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5460): 12-23 12:04:53.288 I/kernel  (  611): [ 1901.587748][wlan][611]priv_support_mdns_offload:(REQ ERROR) mdns param check failed!
+me.txt(5467): 12-23 12:04:53.284 E/mdnsoffload(  611): addProtocolResponses ioctl failed
+me.txt(5468): 12-23 12:04:53.286 E/OffloadWriter( 2157): Failed to offload mDNS protocol response for record key {54} on iface {wlan0}
+me.txt(5469): 12-23 12:04:53.286 E/OffloadWriter( 2157): android.os.ServiceSpecificException: addProtocolResponses ioctl failed (code -1)
+me.txt(5572): 12-23 12:04:54.987 I/kernel  (    0): [ 1903.287384][    C3] [wlan][0]nicGetPhyRateByMcsRate:(RX WARN) Invalid McsRate: ucIdx=0, ucBw=0, ucGI=2
+me.txt(5573): 12-23 12:04:54.988 I/kernel  (    0): [ 1903.288084][    C3] [wlan][0]nicGetPhyRateByMcsRate:(RX WARN) Invalid McsRate: ucIdx=0, ucBw=0, ucGI=2
+me.txt(5629): 12-23 12:04:56.205 W/kernel  ( 6459): [ 1904.505309]WARNING: CPU: 0 PID: 6459 at drivers/clk/clk.c:1073 clk_core_disable+0xa8/0x564
+me.txt(5682): 12-23 12:04:56.206 W/kernel  ( 6459): [ 1904.506052]WARNING: CPU: 0 PID: 6459 at drivers/clk/clk.c:933 clk_core_unprepare+0xdc/0x288
+me.txt(5745): 12-23 12:04:56.207 W/kernel  ( 6459): [ 1904.506704]WARNING: CPU: 0 PID: 6459 at drivers/clk/clk.c:1073 clk_core_disable+0xa8/0x564
+me.txt(5797): 12-23 12:04:56.207 W/kernel  ( 6459): [ 1904.507318]WARNING: CPU: 0 PID: 6459 at drivers/clk/clk.c:933 clk_core_unprepare+0xdc/0x288
+me.txt(5849): 12-23 12:04:56.208 W/kernel  ( 6459): [ 1904.507959]WARNING: CPU: 0 PID: 6459 at drivers/clk/clk.c:1073 clk_core_disable+0xa8/0x564
+me.txt(5902): 12-23 12:04:56.209 W/kernel  ( 6459): [ 1904.508588]WARNING: CPU: 0 PID: 6459 at drivers/clk/clk.c:933 clk_core_unprepare+0xdc/0x288
+me.txt(5956): 12-23 12:04:56.209 W/kernel  ( 6459): [ 1904.509206]WARNING: CPU: 0 PID: 6459 at drivers/clk/clk.c:1073 clk_core_disable+0xa8/0x564
+me.txt(6008): 12-23 12:04:56.210 W/kernel  ( 6459): [ 1904.509813]WARNING: CPU: 0 PID: 6459 at drivers/clk/clk.c:933 clk_core_unprepare+0xdc/0x288
+me.txt(6060): 12-23 12:04:56.211 I/kernel  ( 6459): [ 1904.510594][edma][error] edma_power_off(): force power off skip
+me.txt(6064): 12-23 12:04:56.211 E/kernel  ( 6459): [ 1904.510966]alarmtimer alarmtimer.0.auto: PM: failed to suspend: error -16
+me.txt(6065): 12-23 12:04:56.514 I/kernel  ( 6664): [ 1904.813586][wlan][6664]wlanWaitCfg80211SuspendDone:(HAL ERROR) cfg80211 not suspend
