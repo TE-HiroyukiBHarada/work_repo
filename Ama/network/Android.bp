@@ -1,0 +1,21 @@
+// This makefile shows how to build your own shared library that can be
+// shipped on the system of a phone, and included additional examples of
+// including JNI code with the library and writing client applications against it.
+
+// the library
+// ============================================================
+java_library {
+    name: "com.mediatek.network",
+    installable: true,
+
+    srcs: [
+        "**/*.java",
+    ],
+
+    optimize: {
+        proguard_flags_files: ["proguard.flags"],
+    },
+
+    sdk_version: "current",
+    system_ext_specific: true,
+}

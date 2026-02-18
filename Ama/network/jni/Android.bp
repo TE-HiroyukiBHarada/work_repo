@@ -1,0 +1,30 @@
+
+
+cc_library_shared {
+
+    // This is the target being built.
+    name: "libcom_mediatek_net_jni",
+
+    defaults: ["mtk_sanitizer_defaults"],
+
+    system_ext_specific: true,
+
+    // All of the source files that we will compile.
+    srcs: [
+        "onload.cpp",
+        "com_mediatek_network.cpp",
+    ],
+
+    // All of the shared libraries we link against.
+    shared_libs: [
+        "libcutils",
+        "libdl",
+        "liblog",
+        "libnetpriv",
+    ],
+
+    header_libs: [
+        "jni_headers",
+    ],
+
+}
